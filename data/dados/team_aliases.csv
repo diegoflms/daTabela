@@ -1,0 +1,1109 @@
+id,team_id,season_id,alias,alias_type,source,is_primary
+1,1,1,ARA,abbreviation,standings,0
+2,1,1,Araraquara,season_display_name,standings,1
+3,1,1,MAIS SOBRE O CLUBE,link_text,standings,0
+4,1,1,Araraquara 2,slug_name,standings,0
+5,2,1,ASS,abbreviation,standings,0
+6,2,1,Assis,season_display_name,standings,1
+7,2,1,MAIS SOBRE O CLUBE,link_text,standings,0
+8,3,1,BAU,abbreviation,standings,0
+9,3,1,Bauru,season_display_name,standings,1
+10,3,1,Bauru Basket,logo_alt,standings,0
+11,3,1,MAIS SOBRE O CLUBE,link_text,standings,0
+12,4,1,BRA,abbreviation,standings,0
+13,4,1,Brasília,season_display_name,standings,1
+14,4,1,MAIS SOBRE O CLUBE,link_text,standings,0
+15,4,1,Brasilia,slug_name,standings,0
+16,5,1,ESB,abbreviation,standings,0
+17,5,1,Espírito Santo,season_display_name,standings,1
+18,5,1,MAIS SOBRE O CLUBE,link_text,standings,0
+19,6,1,FLA,abbreviation,standings,0
+20,6,1,Flamengo,season_display_name,standings,1
+21,6,1,MAIS SOBRE O CLUBE,link_text,standings,0
+22,7,1,FRA,abbreviation,standings,0
+23,7,1,Franca,season_display_name,standings,1
+24,7,1,Sesi Franca,logo_alt,standings,0
+25,7,1,MAIS SOBRE O CLUBE,link_text,standings,0
+26,8,1,JOI,abbreviation,standings,0
+27,8,1,Joinville,season_display_name,standings,1
+28,8,1,MAIS SOBRE O CLUBE,link_text,standings,0
+29,8,1,Joinville 2,slug_name,standings,0
+30,9,1,LAJ,abbreviation,standings,0
+31,9,1,Lajeado,season_display_name,standings,1
+32,9,1,MAIS SOBRE O CLUBE,link_text,standings,0
+33,10,1,LIM,abbreviation,standings,0
+34,10,1,Limeira,season_display_name,standings,1
+35,10,1,MAIS SOBRE O CLUBE,link_text,standings,0
+36,10,1,Limeira 2,slug_name,standings,0
+37,11,1,MIN,abbreviation,standings,0
+38,11,1,Minas,season_display_name,standings,1
+39,11,1,KTO Minas,logo_alt,standings,0
+40,11,1,MAIS SOBRE O CLUBE,link_text,standings,0
+41,12,1,CAP,abbreviation,standings,0
+42,12,1,Paulistano,season_display_name,standings,1
+43,12,1,MAIS SOBRE O CLUBE,link_text,standings,0
+44,13,1,PIN,abbreviation,standings,0
+45,13,1,Pinheiros,season_display_name,standings,1
+46,13,1,MAIS SOBRE O CLUBE,link_text,standings,0
+47,14,1,SAL,abbreviation,standings,0
+48,14,1,Saldanha,season_display_name,standings,1
+49,14,1,MAIS SOBRE O CLUBE,link_text,standings,0
+50,15,1,SJO,abbreviation,standings,0
+51,15,1,São José,season_display_name,standings,1
+52,15,1,Mr. Moo São José Basketball,logo_alt,standings,0
+53,15,1,MAIS SOBRE O CLUBE,link_text,standings,0
+54,15,1,Sao Jose,slug_name,standings,0
+55,1,2,ARA,abbreviation,standings,0
+56,1,2,Araraquara,season_display_name,standings,1
+57,1,2,MAIS SOBRE O CLUBE,link_text,standings,0
+58,1,2,Araraquara 2,slug_name,standings,0
+59,2,2,ASS,abbreviation,standings,0
+60,2,2,Assis,season_display_name,standings,1
+61,2,2,MAIS SOBRE O CLUBE,link_text,standings,0
+62,3,2,BAU,abbreviation,standings,0
+63,3,2,Bauru,season_display_name,standings,1
+64,3,2,Bauru Basket,logo_alt,standings,0
+65,3,2,MAIS SOBRE O CLUBE,link_text,standings,0
+66,4,2,BRA,abbreviation,standings,0
+67,4,2,Brasília,season_display_name,standings,1
+68,4,2,MAIS SOBRE O CLUBE,link_text,standings,0
+69,4,2,Brasilia,slug_name,standings,0
+70,5,2,ESB,abbreviation,standings,0
+71,5,2,Espírito Santo,season_display_name,standings,1
+72,5,2,MAIS SOBRE O CLUBE,link_text,standings,0
+73,6,2,FLA,abbreviation,standings,0
+74,6,2,Flamengo,season_display_name,standings,1
+75,6,2,MAIS SOBRE O CLUBE,link_text,standings,0
+76,7,2,FRA,abbreviation,standings,0
+77,7,2,Franca,season_display_name,standings,1
+78,7,2,Sesi Franca,logo_alt,standings,0
+79,7,2,MAIS SOBRE O CLUBE,link_text,standings,0
+80,8,2,JOI,abbreviation,standings,0
+81,8,2,Joinville,season_display_name,standings,1
+82,8,2,MAIS SOBRE O CLUBE,link_text,standings,0
+83,8,2,Joinville 2,slug_name,standings,0
+84,16,2,LON,abbreviation,standings,0
+85,16,2,Londrina,season_display_name,standings,1
+86,16,2,MAIS SOBRE O CLUBE,link_text,standings,0
+87,11,2,MIN,abbreviation,standings,0
+88,11,2,Minas,season_display_name,standings,1
+89,11,2,KTO Minas,logo_alt,standings,0
+90,11,2,MAIS SOBRE O CLUBE,link_text,standings,0
+91,12,2,CAP,abbreviation,standings,0
+92,12,2,Paulistano,season_display_name,standings,1
+93,12,2,MAIS SOBRE O CLUBE,link_text,standings,0
+94,13,2,PIN,abbreviation,standings,0
+95,13,2,Pinheiros,season_display_name,standings,1
+96,13,2,MAIS SOBRE O CLUBE,link_text,standings,0
+97,14,2,SAL,abbreviation,standings,0
+98,14,2,Saldanha,season_display_name,standings,1
+99,14,2,MAIS SOBRE O CLUBE,link_text,standings,0
+100,15,2,SJO,abbreviation,standings,0
+101,15,2,São José,season_display_name,standings,1
+102,15,2,Mr. Moo São José Basketball,logo_alt,standings,0
+103,15,2,MAIS SOBRE O CLUBE,link_text,standings,0
+104,15,2,Sao Jose,slug_name,standings,0
+105,1,3,ARA,abbreviation,standings,0
+106,1,3,Araraquara,season_display_name,standings,1
+107,1,3,MAIS SOBRE O CLUBE,link_text,standings,0
+108,1,3,Araraquara 2,slug_name,standings,0
+109,2,3,ASS,abbreviation,standings,0
+110,2,3,Assis,season_display_name,standings,1
+111,2,3,MAIS SOBRE O CLUBE,link_text,standings,0
+112,3,3,BAU,abbreviation,standings,0
+113,3,3,Bauru,season_display_name,standings,1
+114,3,3,Bauru Basket,logo_alt,standings,0
+115,3,3,MAIS SOBRE O CLUBE,link_text,standings,0
+116,4,3,BRA,abbreviation,standings,0
+117,4,3,Brasília,season_display_name,standings,1
+118,4,3,MAIS SOBRE O CLUBE,link_text,standings,0
+119,4,3,Brasilia,slug_name,standings,0
+120,5,3,ESB,abbreviation,standings,0
+121,5,3,Espírito Santo,season_display_name,standings,1
+122,5,3,MAIS SOBRE O CLUBE,link_text,standings,0
+123,6,3,FLA,abbreviation,standings,0
+124,6,3,Flamengo,season_display_name,standings,1
+125,6,3,MAIS SOBRE O CLUBE,link_text,standings,0
+126,7,3,FRA,abbreviation,standings,0
+127,7,3,Franca,season_display_name,standings,1
+128,7,3,Sesi Franca,logo_alt,standings,0
+129,7,3,MAIS SOBRE O CLUBE,link_text,standings,0
+130,8,3,JOI,abbreviation,standings,0
+131,8,3,Joinville,season_display_name,standings,1
+132,8,3,MAIS SOBRE O CLUBE,link_text,standings,0
+133,8,3,Joinville 2,slug_name,standings,0
+134,10,3,LIM,abbreviation,standings,0
+135,10,3,Limeira,season_display_name,standings,1
+136,10,3,MAIS SOBRE O CLUBE,link_text,standings,0
+137,10,3,Limeira 2,slug_name,standings,0
+138,11,3,MIN,abbreviation,standings,0
+139,11,3,Minas,season_display_name,standings,1
+140,11,3,KTO Minas,logo_alt,standings,0
+141,11,3,MAIS SOBRE O CLUBE,link_text,standings,0
+142,12,3,CAP,abbreviation,standings,0
+143,12,3,Paulistano,season_display_name,standings,1
+144,12,3,MAIS SOBRE O CLUBE,link_text,standings,0
+145,13,3,PIN,abbreviation,standings,0
+146,13,3,Pinheiros,season_display_name,standings,1
+147,13,3,MAIS SOBRE O CLUBE,link_text,standings,0
+148,15,3,SJO,abbreviation,standings,0
+149,15,3,São José,season_display_name,standings,1
+150,15,3,Mr. Moo São José Basketball,logo_alt,standings,0
+151,15,3,MAIS SOBRE O CLUBE,link_text,standings,0
+152,15,3,Sao Jose,slug_name,standings,0
+153,17,3,UBE,abbreviation,standings,0
+154,17,3,Uberlândia,season_display_name,standings,1
+155,17,3,MAIS SOBRE O CLUBE,link_text,standings,0
+156,18,3,VIT,abbreviation,standings,0
+157,18,3,Vitória (ES),season_display_name,standings,1
+158,18,3,MAIS SOBRE O CLUBE,link_text,standings,0
+159,18,3,Vitória Es,slug_name,standings,0
+160,1,4,ARA,abbreviation,standings,0
+161,1,4,Araraquara,season_display_name,standings,1
+162,1,4,MAIS SOBRE O CLUBE,link_text,standings,0
+163,1,4,Araraquara 2,slug_name,standings,0
+164,3,4,BAU,abbreviation,standings,0
+165,3,4,Bauru,season_display_name,standings,1
+166,3,4,Bauru Basket,logo_alt,standings,0
+167,3,4,MAIS SOBRE O CLUBE,link_text,standings,0
+168,4,4,BRA,abbreviation,standings,0
+169,4,4,Brasília,season_display_name,standings,1
+170,4,4,MAIS SOBRE O CLUBE,link_text,standings,0
+171,4,4,Brasilia,slug_name,standings,0
+172,5,4,ESB,abbreviation,standings,0
+173,5,4,Espírito Santo,season_display_name,standings,1
+174,5,4,MAIS SOBRE O CLUBE,link_text,standings,0
+175,6,4,FLA,abbreviation,standings,0
+176,6,4,Flamengo,season_display_name,standings,1
+177,6,4,MAIS SOBRE O CLUBE,link_text,standings,0
+178,7,4,FRA,abbreviation,standings,0
+179,7,4,Franca,season_display_name,standings,1
+180,7,4,Sesi Franca,logo_alt,standings,0
+181,7,4,MAIS SOBRE O CLUBE,link_text,standings,0
+182,8,4,JOI,abbreviation,standings,0
+183,8,4,Joinville,season_display_name,standings,1
+184,8,4,MAIS SOBRE O CLUBE,link_text,standings,0
+185,8,4,Joinville 2,slug_name,standings,0
+186,19,4,LSB,abbreviation,standings,0
+187,19,4,L. Sorocabana,season_display_name,standings,1
+188,19,4,MAIS SOBRE O CLUBE,link_text,standings,0
+189,19,4,L Sorocabana,slug_name,standings,0
+190,10,4,LIM,abbreviation,standings,0
+191,10,4,Limeira,season_display_name,standings,1
+192,10,4,MAIS SOBRE O CLUBE,link_text,standings,0
+193,10,4,Limeira 2,slug_name,standings,0
+194,11,4,MIN,abbreviation,standings,0
+195,11,4,Minas,season_display_name,standings,1
+196,11,4,KTO Minas,logo_alt,standings,0
+197,11,4,MAIS SOBRE O CLUBE,link_text,standings,0
+198,12,4,CAP,abbreviation,standings,0
+199,12,4,Paulistano,season_display_name,standings,1
+200,12,4,MAIS SOBRE O CLUBE,link_text,standings,0
+201,13,4,PIN,abbreviation,standings,0
+202,13,4,Pinheiros,season_display_name,standings,1
+203,13,4,MAIS SOBRE O CLUBE,link_text,standings,0
+204,15,4,SJO,abbreviation,standings,0
+205,15,4,São José,season_display_name,standings,1
+206,15,4,Mr. Moo São José Basketball,logo_alt,standings,0
+207,15,4,MAIS SOBRE O CLUBE,link_text,standings,0
+208,15,4,Sao Jose,slug_name,standings,0
+209,20,4,TIJ,abbreviation,standings,0
+210,20,4,Tijuca,season_display_name,standings,1
+211,20,4,MAIS SOBRE O CLUBE,link_text,standings,0
+212,20,4,Tijuca 2,slug_name,standings,0
+213,17,4,UBE,abbreviation,standings,0
+214,17,4,Uberlândia,season_display_name,standings,1
+215,17,4,MAIS SOBRE O CLUBE,link_text,standings,0
+216,21,5,FOR,abbreviation,standings,0
+217,21,5,Basq. Cearense,season_display_name,standings,1
+218,21,5,Fortaleza Basquete Cearense,logo_alt,standings,0
+219,21,5,MAIS SOBRE O CLUBE,link_text,standings,0
+220,21,5,Basq Cearense,slug_name,standings,0
+221,3,5,BAU,abbreviation,standings,0
+222,3,5,Bauru,season_display_name,standings,1
+223,3,5,Bauru Basket,logo_alt,standings,0
+224,3,5,MAIS SOBRE O CLUBE,link_text,standings,0
+225,4,5,BRA,abbreviation,standings,0
+226,4,5,Brasília,season_display_name,standings,1
+227,4,5,MAIS SOBRE O CLUBE,link_text,standings,0
+228,4,5,Brasilia,slug_name,standings,0
+229,5,5,ESB,abbreviation,standings,0
+230,5,5,Espírito Santo,season_display_name,standings,1
+231,5,5,MAIS SOBRE O CLUBE,link_text,standings,0
+232,6,5,FLA,abbreviation,standings,0
+233,6,5,Flamengo,season_display_name,standings,1
+234,6,5,MAIS SOBRE O CLUBE,link_text,standings,0
+235,7,5,FRA,abbreviation,standings,0
+236,7,5,Franca,season_display_name,standings,1
+237,7,5,Sesi Franca,logo_alt,standings,0
+238,7,5,MAIS SOBRE O CLUBE,link_text,standings,0
+239,8,5,JOI,abbreviation,standings,0
+240,8,5,Joinville,season_display_name,standings,1
+241,8,5,MAIS SOBRE O CLUBE,link_text,standings,0
+242,8,5,Joinville 2,slug_name,standings,0
+243,19,5,LSB,abbreviation,standings,0
+244,19,5,L. Sorocabana,season_display_name,standings,1
+245,19,5,MAIS SOBRE O CLUBE,link_text,standings,0
+246,19,5,L Sorocabana,slug_name,standings,0
+247,10,5,LIM,abbreviation,standings,0
+248,10,5,Limeira,season_display_name,standings,1
+249,10,5,MAIS SOBRE O CLUBE,link_text,standings,0
+250,10,5,Limeira 2,slug_name,standings,0
+251,11,5,MIN,abbreviation,standings,0
+252,11,5,Minas,season_display_name,standings,1
+253,11,5,KTO Minas,logo_alt,standings,0
+254,11,5,MAIS SOBRE O CLUBE,link_text,standings,0
+255,22,5,MOG,abbreviation,standings,0
+256,22,5,Mogi,season_display_name,standings,1
+257,22,5,Mogi Basquete,logo_alt,standings,0
+258,22,5,MAIS SOBRE O CLUBE,link_text,standings,0
+259,23,5,PAL,abbreviation,standings,0
+260,23,5,Palmeiras,season_display_name,standings,1
+261,23,5,MAIS SOBRE O CLUBE,link_text,standings,0
+262,23,5,Palmeiras 2,slug_name,standings,0
+263,12,5,CAP,abbreviation,standings,0
+264,12,5,Paulistano,season_display_name,standings,1
+265,12,5,MAIS SOBRE O CLUBE,link_text,standings,0
+266,13,5,PIN,abbreviation,standings,0
+267,13,5,Pinheiros,season_display_name,standings,1
+268,13,5,MAIS SOBRE O CLUBE,link_text,standings,0
+269,15,5,SJO,abbreviation,standings,0
+270,15,5,São José,season_display_name,standings,1
+271,15,5,Mr. Moo São José Basketball,logo_alt,standings,0
+272,15,5,MAIS SOBRE O CLUBE,link_text,standings,0
+273,15,5,Sao Jose,slug_name,standings,0
+274,24,5,SUZ,abbreviation,standings,0
+275,24,5,Suzano,season_display_name,standings,1
+276,24,5,MAIS SOBRE O CLUBE,link_text,standings,0
+277,24,5,Suzano 2,slug_name,standings,0
+278,20,5,TIJ,abbreviation,standings,0
+279,20,5,Tijuca,season_display_name,standings,1
+280,20,5,MAIS SOBRE O CLUBE,link_text,standings,0
+281,20,5,Tijuca 2,slug_name,standings,0
+282,17,5,UBE,abbreviation,standings,0
+283,17,5,Uberlândia,season_display_name,standings,1
+284,17,5,MAIS SOBRE O CLUBE,link_text,standings,0
+285,21,6,FOR,abbreviation,standings,0
+286,21,6,Basq. Cearense,season_display_name,standings,1
+287,21,6,Fortaleza Basquete Cearense,logo_alt,standings,0
+288,21,6,MAIS SOBRE O CLUBE,link_text,standings,0
+289,21,6,Basq Cearense,slug_name,standings,0
+290,3,6,BAU,abbreviation,standings,0
+291,3,6,Bauru,season_display_name,standings,1
+292,3,6,Bauru Basket,logo_alt,standings,0
+293,3,6,MAIS SOBRE O CLUBE,link_text,standings,0
+294,4,6,BRA,abbreviation,standings,0
+295,4,6,Brasília,season_display_name,standings,1
+296,4,6,MAIS SOBRE O CLUBE,link_text,standings,0
+297,4,6,Brasilia,slug_name,standings,0
+298,5,6,ESB,abbreviation,standings,0
+299,5,6,Espírito Santo,season_display_name,standings,1
+300,5,6,MAIS SOBRE O CLUBE,link_text,standings,0
+301,6,6,FLA,abbreviation,standings,0
+302,6,6,Flamengo,season_display_name,standings,1
+303,6,6,MAIS SOBRE O CLUBE,link_text,standings,0
+304,7,6,FRA,abbreviation,standings,0
+305,7,6,Franca,season_display_name,standings,1
+306,7,6,Sesi Franca,logo_alt,standings,0
+307,7,6,MAIS SOBRE O CLUBE,link_text,standings,0
+308,25,6,GOI,abbreviation,standings,0
+309,25,6,Goiânia,season_display_name,standings,1
+310,25,6,MAIS SOBRE O CLUBE,link_text,standings,0
+311,19,6,LSB,abbreviation,standings,0
+312,19,6,L. Sorocabana,season_display_name,standings,1
+313,19,6,MAIS SOBRE O CLUBE,link_text,standings,0
+314,19,6,L Sorocabana,slug_name,standings,0
+315,10,6,LIM,abbreviation,standings,0
+316,10,6,Limeira,season_display_name,standings,1
+317,10,6,MAIS SOBRE O CLUBE,link_text,standings,0
+318,10,6,Limeira 2,slug_name,standings,0
+319,26,6,MAC,abbreviation,standings,0
+320,26,6,Macaé,season_display_name,standings,1
+321,26,6,Macaé Basquete,logo_alt,standings,0
+322,26,6,MAIS SOBRE O CLUBE,link_text,standings,0
+323,26,6,Macae,slug_name,standings,0
+324,11,6,MIN,abbreviation,standings,0
+325,11,6,Minas,season_display_name,standings,1
+326,11,6,KTO Minas,logo_alt,standings,0
+327,11,6,MAIS SOBRE O CLUBE,link_text,standings,0
+328,22,6,MOG,abbreviation,standings,0
+329,22,6,Mogi,season_display_name,standings,1
+330,22,6,Mogi Basquete,logo_alt,standings,0
+331,22,6,MAIS SOBRE O CLUBE,link_text,standings,0
+332,23,6,PAL,abbreviation,standings,0
+333,23,6,Palmeiras,season_display_name,standings,1
+334,23,6,MAIS SOBRE O CLUBE,link_text,standings,0
+335,23,6,Palmeiras 2,slug_name,standings,0
+336,12,6,CAP,abbreviation,standings,0
+337,12,6,Paulistano,season_display_name,standings,1
+338,12,6,MAIS SOBRE O CLUBE,link_text,standings,0
+339,13,6,PIN,abbreviation,standings,0
+340,13,6,Pinheiros,season_display_name,standings,1
+341,13,6,MAIS SOBRE O CLUBE,link_text,standings,0
+342,15,6,SJO,abbreviation,standings,0
+343,15,6,São José,season_display_name,standings,1
+344,15,6,Mr. Moo São José Basketball,logo_alt,standings,0
+345,15,6,MAIS SOBRE O CLUBE,link_text,standings,0
+346,15,6,Sao Jose,slug_name,standings,0
+347,17,6,UBE,abbreviation,standings,0
+348,17,6,Uberlândia,season_display_name,standings,1
+349,17,6,MAIS SOBRE O CLUBE,link_text,standings,0
+350,21,7,FOR,abbreviation,standings,0
+351,21,7,Basq. Cearense,season_display_name,standings,1
+352,21,7,Fortaleza Basquete Cearense,logo_alt,standings,0
+353,21,7,MAIS SOBRE O CLUBE,link_text,standings,0
+354,21,7,Basq Cearense,slug_name,standings,0
+355,3,7,BAU,abbreviation,standings,0
+356,3,7,Bauru,season_display_name,standings,1
+357,3,7,Bauru Basket,logo_alt,standings,0
+358,3,7,MAIS SOBRE O CLUBE,link_text,standings,0
+359,4,7,BRA,abbreviation,standings,0
+360,4,7,Brasília,season_display_name,standings,1
+361,4,7,MAIS SOBRE O CLUBE,link_text,standings,0
+362,4,7,Brasilia,slug_name,standings,0
+363,6,7,FLA,abbreviation,standings,0
+364,6,7,Flamengo,season_display_name,standings,1
+365,6,7,MAIS SOBRE O CLUBE,link_text,standings,0
+366,7,7,FRA,abbreviation,standings,0
+367,7,7,Franca,season_display_name,standings,1
+368,7,7,Sesi Franca,logo_alt,standings,0
+369,7,7,MAIS SOBRE O CLUBE,link_text,standings,0
+370,19,7,LSB,abbreviation,standings,0
+371,19,7,L. Sorocabana,season_display_name,standings,1
+372,19,7,MAIS SOBRE O CLUBE,link_text,standings,0
+373,19,7,L Sorocabana,slug_name,standings,0
+374,10,7,LIM,abbreviation,standings,0
+375,10,7,Limeira,season_display_name,standings,1
+376,10,7,MAIS SOBRE O CLUBE,link_text,standings,0
+377,10,7,Limeira 2,slug_name,standings,0
+378,26,7,MAC,abbreviation,standings,0
+379,26,7,Macaé,season_display_name,standings,1
+380,26,7,Macaé Basquete,logo_alt,standings,0
+381,26,7,MAIS SOBRE O CLUBE,link_text,standings,0
+382,26,7,Macae,slug_name,standings,0
+383,11,7,MIN,abbreviation,standings,0
+384,11,7,Minas,season_display_name,standings,1
+385,11,7,KTO Minas,logo_alt,standings,0
+386,11,7,MAIS SOBRE O CLUBE,link_text,standings,0
+387,22,7,MOG,abbreviation,standings,0
+388,22,7,Mogi,season_display_name,standings,1
+389,22,7,Mogi Basquete,logo_alt,standings,0
+390,22,7,MAIS SOBRE O CLUBE,link_text,standings,0
+391,23,7,PAL,abbreviation,standings,0
+392,23,7,Palmeiras,season_display_name,standings,1
+393,23,7,MAIS SOBRE O CLUBE,link_text,standings,0
+394,23,7,Palmeiras 2,slug_name,standings,0
+395,12,7,CAP,abbreviation,standings,0
+396,12,7,Paulistano,season_display_name,standings,1
+397,12,7,MAIS SOBRE O CLUBE,link_text,standings,0
+398,13,7,PIN,abbreviation,standings,0
+399,13,7,Pinheiros,season_display_name,standings,1
+400,13,7,MAIS SOBRE O CLUBE,link_text,standings,0
+401,27,7,RCB,abbreviation,standings,0
+402,27,7,Rio Claro,season_display_name,standings,1
+403,27,7,Conta Simples Rio Claro,logo_alt,standings,0
+404,27,7,MAIS SOBRE O CLUBE,link_text,standings,0
+405,15,7,SJO,abbreviation,standings,0
+406,15,7,São José,season_display_name,standings,1
+407,15,7,Mr. Moo São José Basketball,logo_alt,standings,0
+408,15,7,MAIS SOBRE O CLUBE,link_text,standings,0
+409,15,7,Sao Jose,slug_name,standings,0
+410,17,7,UBE,abbreviation,standings,0
+411,17,7,Uberlândia,season_display_name,standings,1
+412,17,7,MAIS SOBRE O CLUBE,link_text,standings,0
+413,21,8,FOR,abbreviation,standings,0
+414,21,8,Basq. Cearense,season_display_name,standings,1
+415,21,8,Fortaleza Basquete Cearense,logo_alt,standings,0
+416,21,8,MAIS SOBRE O CLUBE,link_text,standings,0
+417,21,8,Basq Cearense,slug_name,standings,0
+418,3,8,BAU,abbreviation,standings,0
+419,3,8,Bauru,season_display_name,standings,1
+420,3,8,Bauru Basket,logo_alt,standings,0
+421,3,8,MAIS SOBRE O CLUBE,link_text,standings,0
+422,4,8,BRA,abbreviation,standings,0
+423,4,8,Brasília,season_display_name,standings,1
+424,4,8,MAIS SOBRE O CLUBE,link_text,standings,0
+425,4,8,Brasilia,slug_name,standings,0
+426,28,8,CAX,abbreviation,standings,0
+427,28,8,Caxias do Sul,season_display_name,standings,1
+428,28,8,Caxias do Sul Basquete,logo_alt,standings,0
+429,28,8,MAIS SOBRE O CLUBE,link_text,standings,0
+430,6,8,FLA,abbreviation,standings,0
+431,6,8,Flamengo,season_display_name,standings,1
+432,6,8,MAIS SOBRE O CLUBE,link_text,standings,0
+433,7,8,FRA,abbreviation,standings,0
+434,7,8,Franca,season_display_name,standings,1
+435,7,8,Sesi Franca,logo_alt,standings,0
+436,7,8,MAIS SOBRE O CLUBE,link_text,standings,0
+437,19,8,LSB,abbreviation,standings,0
+438,19,8,L. Sorocabana,season_display_name,standings,1
+439,19,8,MAIS SOBRE O CLUBE,link_text,standings,0
+440,19,8,L Sorocabana,slug_name,standings,0
+441,26,8,MAC,abbreviation,standings,0
+442,26,8,Macaé,season_display_name,standings,1
+443,26,8,Macaé Basquete,logo_alt,standings,0
+444,26,8,MAIS SOBRE O CLUBE,link_text,standings,0
+445,26,8,Macae,slug_name,standings,0
+446,11,8,MIN,abbreviation,standings,0
+447,11,8,Minas,season_display_name,standings,1
+448,11,8,KTO Minas,logo_alt,standings,0
+449,11,8,MAIS SOBRE O CLUBE,link_text,standings,0
+450,22,8,MOG,abbreviation,standings,0
+451,22,8,Mogi,season_display_name,standings,1
+452,22,8,Mogi Basquete,logo_alt,standings,0
+453,22,8,MAIS SOBRE O CLUBE,link_text,standings,0
+454,12,8,CAP,abbreviation,standings,0
+455,12,8,Paulistano,season_display_name,standings,1
+456,12,8,MAIS SOBRE O CLUBE,link_text,standings,0
+457,13,8,PIN,abbreviation,standings,0
+458,13,8,Pinheiros,season_display_name,standings,1
+459,13,8,MAIS SOBRE O CLUBE,link_text,standings,0
+460,27,8,RCB,abbreviation,standings,0
+461,27,8,Rio Claro,season_display_name,standings,1
+462,27,8,Conta Simples Rio Claro,logo_alt,standings,0
+463,27,8,MAIS SOBRE O CLUBE,link_text,standings,0
+464,15,8,SJO,abbreviation,standings,0
+465,15,8,São José,season_display_name,standings,1
+466,15,8,Mr. Moo São José Basketball,logo_alt,standings,0
+467,15,8,MAIS SOBRE O CLUBE,link_text,standings,0
+468,15,8,Sao Jose,slug_name,standings,0
+469,29,8,VIT,abbreviation,standings,0
+470,29,8,Vitória,season_display_name,standings,1
+471,29,8,MAIS SOBRE O CLUBE,link_text,standings,0
+472,21,9,FOR,abbreviation,standings,0
+473,21,9,Basq. Cearense,season_display_name,standings,1
+474,21,9,Fortaleza Basquete Cearense,logo_alt,standings,0
+475,21,9,MAIS SOBRE O CLUBE,link_text,standings,0
+476,21,9,Basq Cearense,slug_name,standings,0
+477,3,9,BAU,abbreviation,standings,0
+478,3,9,Bauru,season_display_name,standings,1
+479,3,9,Bauru Basket,logo_alt,standings,0
+480,3,9,MAIS SOBRE O CLUBE,link_text,standings,0
+481,4,9,BRA,abbreviation,standings,0
+482,4,9,Brasília,season_display_name,standings,1
+483,4,9,MAIS SOBRE O CLUBE,link_text,standings,0
+484,4,9,Brasilia,slug_name,standings,0
+485,30,9,CMO,abbreviation,standings,0
+486,30,9,Campo Mourão,season_display_name,standings,1
+487,30,9,VipTech CMB,logo_alt,standings,0
+488,30,9,MAIS SOBRE O CLUBE,link_text,standings,0
+489,30,9,Campo Mourao,slug_name,standings,0
+490,28,9,CAX,abbreviation,standings,0
+491,28,9,Caxias do Sul,season_display_name,standings,1
+492,28,9,Caxias do Sul Basquete,logo_alt,standings,0
+493,28,9,MAIS SOBRE O CLUBE,link_text,standings,0
+494,6,9,FLA,abbreviation,standings,0
+495,6,9,Flamengo,season_display_name,standings,1
+496,6,9,MAIS SOBRE O CLUBE,link_text,standings,0
+497,7,9,FRA,abbreviation,standings,0
+498,7,9,Franca,season_display_name,standings,1
+499,7,9,Sesi Franca,logo_alt,standings,0
+500,7,9,MAIS SOBRE O CLUBE,link_text,standings,0
+501,19,9,LSB,abbreviation,standings,0
+502,19,9,L. Sorocabana,season_display_name,standings,1
+503,19,9,MAIS SOBRE O CLUBE,link_text,standings,0
+504,19,9,L Sorocabana,slug_name,standings,0
+505,26,9,MAC,abbreviation,standings,0
+506,26,9,Macaé Basquete,season_display_name,standings,1
+507,26,9,MAIS SOBRE O CLUBE,link_text,standings,0
+508,26,9,Macae,slug_name,standings,0
+509,11,9,MIN,abbreviation,standings,0
+510,11,9,Minas,season_display_name,standings,1
+511,11,9,KTO Minas,logo_alt,standings,0
+512,11,9,MAIS SOBRE O CLUBE,link_text,standings,0
+513,22,9,MOG,abbreviation,standings,0
+514,22,9,Mogi,season_display_name,standings,1
+515,22,9,Mogi Basquete,logo_alt,standings,0
+516,22,9,MAIS SOBRE O CLUBE,link_text,standings,0
+517,12,9,CAP,abbreviation,standings,0
+518,12,9,Paulistano,season_display_name,standings,1
+519,12,9,MAIS SOBRE O CLUBE,link_text,standings,0
+520,13,9,PIN,abbreviation,standings,0
+521,13,9,Pinheiros,season_display_name,standings,1
+522,13,9,MAIS SOBRE O CLUBE,link_text,standings,0
+523,27,9,RCB,abbreviation,standings,0
+524,27,9,Conta Simples Rio Claro,season_display_name,standings,1
+525,27,9,MAIS SOBRE O CLUBE,link_text,standings,0
+526,27,9,Rio Claro,slug_name,standings,0
+527,31,9,VAS,abbreviation,standings,0
+528,31,9,Vasco da Gama,season_display_name,standings,1
+529,31,9,MAIS SOBRE O CLUBE,link_text,standings,0
+530,29,9,VIT,abbreviation,standings,0
+531,29,9,Vitória,season_display_name,standings,1
+532,29,9,MAIS SOBRE O CLUBE,link_text,standings,0
+533,21,10,FOR,abbreviation,standings,0
+534,21,10,Basq. Cearense,season_display_name,standings,1
+535,21,10,Fortaleza Basquete Cearense,logo_alt,standings,0
+536,21,10,MAIS SOBRE O CLUBE,link_text,standings,0
+537,21,10,Basq Cearense,slug_name,standings,0
+538,3,10,BAU,abbreviation,standings,0
+539,3,10,Bauru,season_display_name,standings,1
+540,3,10,Bauru Basket,logo_alt,standings,0
+541,3,10,MAIS SOBRE O CLUBE,link_text,standings,0
+542,32,10,BOT,abbreviation,standings,0
+543,32,10,Botafogo,season_display_name,standings,1
+544,32,10,MAIS SOBRE O CLUBE,link_text,standings,0
+545,30,10,CMO,abbreviation,standings,0
+546,30,10,Campo Mourão,season_display_name,standings,1
+547,30,10,VipTech CMB,logo_alt,standings,0
+548,30,10,MAIS SOBRE O CLUBE,link_text,standings,0
+549,30,10,Campo Mourao,slug_name,standings,0
+550,28,10,CAX,abbreviation,standings,0
+551,28,10,Caxias do Sul,season_display_name,standings,1
+552,28,10,Caxias do Sul Basquete,logo_alt,standings,0
+553,28,10,MAIS SOBRE O CLUBE,link_text,standings,0
+554,6,10,FLA,abbreviation,standings,0
+555,6,10,Flamengo,season_display_name,standings,1
+556,6,10,MAIS SOBRE O CLUBE,link_text,standings,0
+557,7,10,FRA,abbreviation,standings,0
+558,7,10,Sesi Franca,season_display_name,standings,1
+559,7,10,MAIS SOBRE O CLUBE,link_text,standings,0
+560,7,10,Franca,slug_name,standings,0
+561,33,10,JLE,abbreviation,standings,0
+562,33,10,Joinville / AABJ,season_display_name,standings,1
+563,33,10,MAIS SOBRE O CLUBE,link_text,standings,0
+564,33,10,Joinville Aabj,slug_name,standings,0
+565,19,10,LSB,abbreviation,standings,0
+566,19,10,L. Sorocabana,season_display_name,standings,1
+567,19,10,MAIS SOBRE O CLUBE,link_text,standings,0
+568,19,10,L Sorocabana,slug_name,standings,0
+569,11,10,MIN,abbreviation,standings,0
+570,11,10,Minas,season_display_name,standings,1
+571,11,10,KTO Minas,logo_alt,standings,0
+572,11,10,MAIS SOBRE O CLUBE,link_text,standings,0
+573,22,10,MOG,abbreviation,standings,0
+574,22,10,Mogi,season_display_name,standings,1
+575,22,10,Mogi Basquete,logo_alt,standings,0
+576,22,10,MAIS SOBRE O CLUBE,link_text,standings,0
+577,12,10,CAP,abbreviation,standings,0
+578,12,10,Paulistano,season_display_name,standings,1
+579,12,10,MAIS SOBRE O CLUBE,link_text,standings,0
+580,13,10,PIN,abbreviation,standings,0
+581,13,10,Pinheiros,season_display_name,standings,1
+582,13,10,MAIS SOBRE O CLUBE,link_text,standings,0
+583,31,10,VAS,abbreviation,standings,0
+584,31,10,Vasco da Gama,season_display_name,standings,1
+585,31,10,MAIS SOBRE O CLUBE,link_text,standings,0
+586,29,10,VIT,abbreviation,standings,0
+587,29,10,Vitória,season_display_name,standings,1
+588,29,10,MAIS SOBRE O CLUBE,link_text,standings,0
+589,21,11,FOR,abbreviation,standings,0
+590,21,11,Basq. Cearense,season_display_name,standings,1
+591,21,11,Fortaleza Basquete Cearense,logo_alt,standings,0
+592,21,11,MAIS SOBRE O CLUBE,link_text,standings,0
+593,21,11,Basq Cearense,slug_name,standings,0
+594,3,11,BAU,abbreviation,standings,0
+595,3,11,Bauru,season_display_name,standings,1
+596,3,11,Bauru Basket,logo_alt,standings,0
+597,3,11,MAIS SOBRE O CLUBE,link_text,standings,0
+598,32,11,BOT,abbreviation,standings,0
+599,32,11,Botafogo,season_display_name,standings,1
+600,32,11,MAIS SOBRE O CLUBE,link_text,standings,0
+601,34,11,BRA,abbreviation,standings,0
+602,34,11,Brasília,season_display_name,standings,1
+603,34,11,CAIXA/Brasília Basquete,logo_alt,standings,0
+604,34,11,MAIS SOBRE O CLUBE,link_text,standings,0
+605,34,11,Brasilia Basquete,slug_name,standings,0
+606,35,11,COR,abbreviation,standings,0
+607,35,11,Corinthians,season_display_name,standings,1
+608,35,11,MAIS SOBRE O CLUBE,link_text,standings,0
+609,6,11,FLA,abbreviation,standings,0
+610,6,11,Flamengo,season_display_name,standings,1
+611,6,11,MAIS SOBRE O CLUBE,link_text,standings,0
+612,7,11,FRA,abbreviation,standings,0
+613,7,11,Sesi Franca,season_display_name,standings,1
+614,7,11,MAIS SOBRE O CLUBE,link_text,standings,0
+615,7,11,Franca,slug_name,standings,0
+616,33,11,JLE,abbreviation,standings,0
+617,33,11,Joinville / AABJ,season_display_name,standings,1
+618,33,11,MAIS SOBRE O CLUBE,link_text,standings,0
+619,33,11,Joinville Aabj,slug_name,standings,0
+620,11,11,MIN,abbreviation,standings,0
+621,11,11,Minas,season_display_name,standings,1
+622,11,11,KTO Minas,logo_alt,standings,0
+623,11,11,MAIS SOBRE O CLUBE,link_text,standings,0
+624,22,11,MOG,abbreviation,standings,0
+625,22,11,Mogi,season_display_name,standings,1
+626,22,11,Mogi Basquete,logo_alt,standings,0
+627,22,11,MAIS SOBRE O CLUBE,link_text,standings,0
+628,12,11,CAP,abbreviation,standings,0
+629,12,11,Paulistano,season_display_name,standings,1
+630,12,11,MAIS SOBRE O CLUBE,link_text,standings,0
+631,13,11,PIN,abbreviation,standings,0
+632,13,11,Pinheiros,season_display_name,standings,1
+633,13,11,MAIS SOBRE O CLUBE,link_text,standings,0
+634,15,11,SJO,abbreviation,standings,0
+635,15,11,São José,season_display_name,standings,1
+636,15,11,Mr. Moo São José Basketball,logo_alt,standings,0
+637,15,11,MAIS SOBRE O CLUBE,link_text,standings,0
+638,15,11,Sao Jose,slug_name,standings,0
+639,31,11,VAS,abbreviation,standings,0
+640,31,11,Vasco da Gama,season_display_name,standings,1
+641,31,11,MAIS SOBRE O CLUBE,link_text,standings,0
+642,21,12,FOR,abbreviation,standings,0
+643,21,12,Basq. Cearense,season_display_name,standings,1
+644,21,12,Fortaleza Basquete Cearense,logo_alt,standings,0
+645,21,12,MAIS SOBRE O CLUBE,link_text,standings,0
+646,21,12,Basq Cearense,slug_name,standings,0
+647,3,12,BAU,abbreviation,standings,0
+648,3,12,Bauru,season_display_name,standings,1
+649,3,12,Bauru Basket,logo_alt,standings,0
+650,3,12,MAIS SOBRE O CLUBE,link_text,standings,0
+651,32,12,BOT,abbreviation,standings,0
+652,32,12,Botafogo,season_display_name,standings,1
+653,32,12,MAIS SOBRE O CLUBE,link_text,standings,0
+654,34,12,BRA,abbreviation,standings,0
+655,34,12,Brasília,season_display_name,standings,1
+656,34,12,CAIXA/Brasília Basquete,logo_alt,standings,0
+657,34,12,MAIS SOBRE O CLUBE,link_text,standings,0
+658,34,12,Brasilia Basquete,slug_name,standings,0
+659,35,12,COR,abbreviation,standings,0
+660,35,12,Corinthians,season_display_name,standings,1
+661,35,12,MAIS SOBRE O CLUBE,link_text,standings,0
+662,6,12,FLA,abbreviation,standings,0
+663,6,12,Flamengo,season_display_name,standings,1
+664,6,12,MAIS SOBRE O CLUBE,link_text,standings,0
+665,7,12,FRA,abbreviation,standings,0
+666,7,12,Sesi Franca,season_display_name,standings,1
+667,7,12,MAIS SOBRE O CLUBE,link_text,standings,0
+668,7,12,Franca,slug_name,standings,0
+669,11,12,MIN,abbreviation,standings,0
+670,11,12,Minas,season_display_name,standings,1
+671,11,12,KTO Minas,logo_alt,standings,0
+672,11,12,MAIS SOBRE O CLUBE,link_text,standings,0
+673,22,12,MOG,abbreviation,standings,0
+674,22,12,Mogi,season_display_name,standings,1
+675,22,12,Mogi Basquete,logo_alt,standings,0
+676,22,12,MAIS SOBRE O CLUBE,link_text,standings,0
+677,36,12,PAT,abbreviation,standings,0
+678,36,12,Pato Basquete,season_display_name,standings,1
+679,36,12,MAIS SOBRE O CLUBE,link_text,standings,0
+680,12,12,CAP,abbreviation,standings,0
+681,12,12,Paulistano,season_display_name,standings,1
+682,12,12,MAIS SOBRE O CLUBE,link_text,standings,0
+683,13,12,PIN,abbreviation,standings,0
+684,13,12,Pinheiros,season_display_name,standings,1
+685,13,12,MAIS SOBRE O CLUBE,link_text,standings,0
+686,27,12,RCB,abbreviation,standings,0
+687,27,12,Rio Claro,season_display_name,standings,1
+688,27,12,Conta Simples Rio Claro,logo_alt,standings,0
+689,27,12,MAIS SOBRE O CLUBE,link_text,standings,0
+690,15,12,SJO,abbreviation,standings,0
+691,15,12,São José,season_display_name,standings,1
+692,15,12,Mr. Moo São José Basketball,logo_alt,standings,0
+693,15,12,MAIS SOBRE O CLUBE,link_text,standings,0
+694,15,12,Sao Jose,slug_name,standings,0
+695,37,12,SAO,abbreviation,standings,0
+696,37,12,São Paulo,season_display_name,standings,1
+697,37,12,MAIS SOBRE O CLUBE,link_text,standings,0
+698,37,12,Sao Paulo Futebol Clube,slug_name,standings,0
+699,38,12,UFC,abbreviation,standings,0
+700,38,12,UNIFACISA,season_display_name,standings,1
+701,38,12,MAIS SOBRE O CLUBE,link_text,standings,0
+702,21,13,FOR,abbreviation,standings,0
+703,21,13,Fortaleza B. C.,season_display_name,standings,1
+704,21,13,Fortaleza Basquete Cearense,logo_alt,standings,0
+705,21,13,MAIS SOBRE O CLUBE,link_text,standings,0
+706,21,13,Basq Cearense,slug_name,standings,0
+707,3,13,BAU,abbreviation,standings,0
+708,3,13,Bauru,season_display_name,standings,1
+709,3,13,Bauru Basket,logo_alt,standings,0
+710,3,13,MAIS SOBRE O CLUBE,link_text,standings,0
+711,34,13,BRA,abbreviation,standings,0
+712,34,13,BRB/Brasília,season_display_name,standings,1
+713,34,13,CAIXA/Brasília Basquete,logo_alt,standings,0
+714,34,13,MAIS SOBRE O CLUBE,link_text,standings,0
+715,34,13,Brasilia Basquete,slug_name,standings,0
+716,30,13,CMO,abbreviation,standings,0
+717,30,13,VipTech CMB,season_display_name,standings,1
+718,30,13,MAIS SOBRE O CLUBE,link_text,standings,0
+719,30,13,Campo Mourao,slug_name,standings,0
+720,28,13,CAX,abbreviation,standings,0
+721,28,13,KTO/Caxias do Sul,season_display_name,standings,1
+722,28,13,Caxias do Sul Basquete,logo_alt,standings,0
+723,28,13,MAIS SOBRE O CLUBE,link_text,standings,0
+724,28,13,Caxias Do Sul,slug_name,standings,0
+725,39,13,CER,abbreviation,standings,0
+726,39,13,Cerrado Basquete,season_display_name,standings,1
+727,39,13,Cerrado,logo_alt,standings,0
+728,39,13,MAIS SOBRE O CLUBE,link_text,standings,0
+729,35,13,COR,abbreviation,standings,0
+730,35,13,Corinthians,season_display_name,standings,1
+731,35,13,MAIS SOBRE O CLUBE,link_text,standings,0
+732,6,13,FLA,abbreviation,standings,0
+733,6,13,Flamengo,season_display_name,standings,1
+734,6,13,MAIS SOBRE O CLUBE,link_text,standings,0
+735,7,13,FRA,abbreviation,standings,0
+736,7,13,Sesi Franca,season_display_name,standings,1
+737,7,13,MAIS SOBRE O CLUBE,link_text,standings,0
+738,7,13,Franca,slug_name,standings,0
+739,11,13,MIN,abbreviation,standings,0
+740,11,13,Minas,season_display_name,standings,1
+741,11,13,KTO Minas,logo_alt,standings,0
+742,11,13,MAIS SOBRE O CLUBE,link_text,standings,0
+743,22,13,MOG,abbreviation,standings,0
+744,22,13,Mogi,season_display_name,standings,1
+745,22,13,Mogi Basquete,logo_alt,standings,0
+746,22,13,MAIS SOBRE O CLUBE,link_text,standings,0
+747,36,13,PAT,abbreviation,standings,0
+748,36,13,Pato Basquete,season_display_name,standings,1
+749,36,13,MAIS SOBRE O CLUBE,link_text,standings,0
+750,12,13,CAP,abbreviation,standings,0
+751,12,13,Paulistano,season_display_name,standings,1
+752,12,13,MAIS SOBRE O CLUBE,link_text,standings,0
+753,13,13,PIN,abbreviation,standings,0
+754,13,13,Pinheiros,season_display_name,standings,1
+755,13,13,MAIS SOBRE O CLUBE,link_text,standings,0
+756,37,13,SAO,abbreviation,standings,0
+757,37,13,São Paulo,season_display_name,standings,1
+758,37,13,MAIS SOBRE O CLUBE,link_text,standings,0
+759,37,13,Sao Paulo Futebol Clube,slug_name,standings,0
+760,38,13,UFC,abbreviation,standings,0
+761,38,13,UNIFACISA,season_display_name,standings,1
+762,38,13,MAIS SOBRE O CLUBE,link_text,standings,0
+763,21,14,FOR,abbreviation,standings,0
+764,21,14,Fortaleza B. C.,season_display_name,standings,1
+765,21,14,Fortaleza Basquete Cearense,logo_alt,standings,0
+766,21,14,MAIS SOBRE O CLUBE,link_text,standings,0
+767,21,14,Basq Cearense,slug_name,standings,0
+768,3,14,BAU,abbreviation,standings,0
+769,3,14,Bauru,season_display_name,standings,1
+770,3,14,Bauru Basket,logo_alt,standings,0
+771,3,14,MAIS SOBRE O CLUBE,link_text,standings,0
+772,34,14,BRA,abbreviation,standings,0
+773,34,14,BRB/Brasília,season_display_name,standings,1
+774,34,14,CAIXA/Brasília Basquete,logo_alt,standings,0
+775,34,14,MAIS SOBRE O CLUBE,link_text,standings,0
+776,34,14,Brasilia Basquete,slug_name,standings,0
+777,28,14,CAX,abbreviation,standings,0
+778,28,14,Caxias do Sul Basquete,season_display_name,standings,1
+779,28,14,MAIS SOBRE O CLUBE,link_text,standings,0
+780,28,14,Caxias Do Sul,slug_name,standings,0
+781,39,14,CER,abbreviation,standings,0
+782,39,14,Cerrado Basquete,season_display_name,standings,1
+783,39,14,Cerrado,logo_alt,standings,0
+784,39,14,MAIS SOBRE O CLUBE,link_text,standings,0
+785,35,14,COR,abbreviation,standings,0
+786,35,14,Corinthians,season_display_name,standings,1
+787,35,14,MAIS SOBRE O CLUBE,link_text,standings,0
+788,6,14,FLA,abbreviation,standings,0
+789,6,14,Flamengo,season_display_name,standings,1
+790,6,14,MAIS SOBRE O CLUBE,link_text,standings,0
+791,7,14,FRA,abbreviation,standings,0
+792,7,14,Sesi Franca,season_display_name,standings,1
+793,7,14,MAIS SOBRE O CLUBE,link_text,standings,0
+794,7,14,Franca,slug_name,standings,0
+795,11,14,MIN,abbreviation,standings,0
+796,11,14,123 Minas,season_display_name,standings,1
+797,11,14,KTO Minas,logo_alt,standings,0
+798,11,14,MAIS SOBRE O CLUBE,link_text,standings,0
+799,11,14,Minas,slug_name,standings,0
+800,22,14,MOG,abbreviation,standings,0
+801,22,14,Mogi,season_display_name,standings,1
+802,22,14,Mogi Basquete,logo_alt,standings,0
+803,22,14,MAIS SOBRE O CLUBE,link_text,standings,0
+804,36,14,PAT,abbreviation,standings,0
+805,36,14,Pato Basquete,season_display_name,standings,1
+806,36,14,MAIS SOBRE O CLUBE,link_text,standings,0
+807,12,14,CAP,abbreviation,standings,0
+808,12,14,Paulistano,season_display_name,standings,1
+809,12,14,MAIS SOBRE O CLUBE,link_text,standings,0
+810,13,14,PIN,abbreviation,standings,0
+811,13,14,Pinheiros,season_display_name,standings,1
+812,13,14,MAIS SOBRE O CLUBE,link_text,standings,0
+813,27,14,RCB,abbreviation,standings,0
+814,27,14,Rio Claro,season_display_name,standings,1
+815,27,14,Conta Simples Rio Claro,logo_alt,standings,0
+816,27,14,MAIS SOBRE O CLUBE,link_text,standings,0
+817,37,14,SAO,abbreviation,standings,0
+818,37,14,São Paulo,season_display_name,standings,1
+819,37,14,MAIS SOBRE O CLUBE,link_text,standings,0
+820,37,14,Sao Paulo Futebol Clube,slug_name,standings,0
+821,40,14,UCO,abbreviation,standings,0
+822,40,14,Luvix/União Corinthians,season_display_name,standings,1
+823,40,14,Ceisc/União Corinthians,logo_alt,standings,0
+824,40,14,MAIS SOBRE O CLUBE,link_text,standings,0
+825,40,14,Uniao Corinthians,slug_name,standings,0
+826,38,14,UFC,abbreviation,standings,0
+827,38,14,UNIFACISA,season_display_name,standings,1
+828,38,14,MAIS SOBRE O CLUBE,link_text,standings,0
+829,21,15,FOR,abbreviation,standings,0
+830,21,15,Fortaleza B. C.,season_display_name,standings,1
+831,21,15,Fortaleza Basquete Cearense,logo_alt,standings,0
+832,21,15,MAIS SOBRE O CLUBE,link_text,standings,0
+833,21,15,Basq Cearense,slug_name,standings,0
+834,3,15,BAU,abbreviation,standings,0
+835,3,15,Bauru Basket,season_display_name,standings,1
+836,3,15,MAIS SOBRE O CLUBE,link_text,standings,0
+837,3,15,Bauru,slug_name,standings,0
+838,34,15,BRA,abbreviation,standings,0
+839,34,15,BRB/Brasília,season_display_name,standings,1
+840,34,15,CAIXA/Brasília Basquete,logo_alt,standings,0
+841,34,15,MAIS SOBRE O CLUBE,link_text,standings,0
+842,34,15,Brasilia Basquete,slug_name,standings,0
+843,28,15,CAX,abbreviation,standings,0
+844,28,15,Caxias do Sul Basquete,season_display_name,standings,1
+845,28,15,MAIS SOBRE O CLUBE,link_text,standings,0
+846,28,15,Caxias Do Sul,slug_name,standings,0
+847,39,15,CER,abbreviation,standings,0
+848,39,15,Cerrado,season_display_name,standings,1
+849,39,15,MAIS SOBRE O CLUBE,link_text,standings,0
+850,39,15,Cerrado Basquete,slug_name,standings,0
+851,35,15,COR,abbreviation,standings,0
+852,35,15,Corinthians,season_display_name,standings,1
+853,35,15,MAIS SOBRE O CLUBE,link_text,standings,0
+854,6,15,FLA,abbreviation,standings,0
+855,6,15,Flamengo,season_display_name,standings,1
+856,6,15,MAIS SOBRE O CLUBE,link_text,standings,0
+857,7,15,FRA,abbreviation,standings,0
+858,7,15,Sesi Franca,season_display_name,standings,1
+859,7,15,MAIS SOBRE O CLUBE,link_text,standings,0
+860,7,15,Franca,slug_name,standings,0
+861,11,15,MIN,abbreviation,standings,0
+862,11,15,123 Minas,season_display_name,standings,1
+863,11,15,KTO Minas,logo_alt,standings,0
+864,11,15,MAIS SOBRE O CLUBE,link_text,standings,0
+865,11,15,Minas,slug_name,standings,0
+866,36,15,PAT,abbreviation,standings,0
+867,36,15,Pato Basquete,season_display_name,standings,1
+868,36,15,MAIS SOBRE O CLUBE,link_text,standings,0
+869,12,15,CAP,abbreviation,standings,0
+870,12,15,Paulistano,season_display_name,standings,1
+871,12,15,MAIS SOBRE O CLUBE,link_text,standings,0
+872,13,15,PIN,abbreviation,standings,0
+873,13,15,Pinheiros,season_display_name,standings,1
+874,13,15,MAIS SOBRE O CLUBE,link_text,standings,0
+875,27,15,RCB,abbreviation,standings,0
+876,27,15,Rio Claro,season_display_name,standings,1
+877,27,15,Conta Simples Rio Claro,logo_alt,standings,0
+878,27,15,MAIS SOBRE O CLUBE,link_text,standings,0
+879,15,15,SJO,abbreviation,standings,0
+880,15,15,Oscar São José Basketball,season_display_name,standings,1
+881,15,15,Mr. Moo São José Basketball,logo_alt,standings,0
+882,15,15,MAIS SOBRE O CLUBE,link_text,standings,0
+883,15,15,Sao Jose,slug_name,standings,0
+884,37,15,SAO,abbreviation,standings,0
+885,37,15,São Paulo,season_display_name,standings,1
+886,37,15,MAIS SOBRE O CLUBE,link_text,standings,0
+887,37,15,Sao Paulo Futebol Clube,slug_name,standings,0
+888,40,15,UCO,abbreviation,standings,0
+889,40,15,União Corinthians,season_display_name,standings,1
+890,40,15,Ceisc/União Corinthians,logo_alt,standings,0
+891,40,15,MAIS SOBRE O CLUBE,link_text,standings,0
+892,40,15,Uniao Corinthians,slug_name,standings,0
+893,38,15,UFC,abbreviation,standings,0
+894,38,15,UNIFACISA,season_display_name,standings,1
+895,38,15,MAIS SOBRE O CLUBE,link_text,standings,0
+896,21,16,FOR,abbreviation,standings,0
+897,21,16,Fortaleza B. C. / CFO,season_display_name,standings,1
+898,21,16,Fortaleza Basquete Cearense,logo_alt,standings,0
+899,21,16,MAIS SOBRE O CLUBE,link_text,standings,0
+900,21,16,Basq Cearense,slug_name,standings,0
+901,3,16,BAU,abbreviation,standings,0
+902,3,16,Bauru Basket,season_display_name,standings,1
+903,3,16,MAIS SOBRE O CLUBE,link_text,standings,0
+904,3,16,Bauru,slug_name,standings,0
+905,32,16,BOT,abbreviation,standings,0
+906,32,16,Botafogo,season_display_name,standings,1
+907,32,16,MAIS SOBRE O CLUBE,link_text,standings,0
+908,34,16,BRA,abbreviation,standings,0
+909,34,16,BRB/Brasília,season_display_name,standings,1
+910,34,16,CAIXA/Brasília Basquete,logo_alt,standings,0
+911,34,16,MAIS SOBRE O CLUBE,link_text,standings,0
+912,34,16,Brasilia Basquete,slug_name,standings,0
+913,28,16,CAX,abbreviation,standings,0
+914,28,16,Caxias do Sul Basquete,season_display_name,standings,1
+915,28,16,MAIS SOBRE O CLUBE,link_text,standings,0
+916,28,16,Caxias Do Sul,slug_name,standings,0
+917,39,16,CER,abbreviation,standings,0
+918,39,16,Cerrado,season_display_name,standings,1
+919,39,16,MAIS SOBRE O CLUBE,link_text,standings,0
+920,39,16,Cerrado Basquete,slug_name,standings,0
+921,35,16,COR,abbreviation,standings,0
+922,35,16,Corinthians,season_display_name,standings,1
+923,35,16,MAIS SOBRE O CLUBE,link_text,standings,0
+924,6,16,FLA,abbreviation,standings,0
+925,6,16,Flamengo,season_display_name,standings,1
+926,6,16,MAIS SOBRE O CLUBE,link_text,standings,0
+927,7,16,FRA,abbreviation,standings,0
+928,7,16,Sesi Franca,season_display_name,standings,1
+929,7,16,MAIS SOBRE O CLUBE,link_text,standings,0
+930,7,16,Franca,slug_name,standings,0
+931,11,16,MIN,abbreviation,standings,0
+932,11,16,Minas,season_display_name,standings,1
+933,11,16,KTO Minas,logo_alt,standings,0
+934,11,16,MAIS SOBRE O CLUBE,link_text,standings,0
+935,22,16,MOG,abbreviation,standings,0
+936,22,16,Mogi,season_display_name,standings,1
+937,22,16,Mogi Basquete,logo_alt,standings,0
+938,22,16,MAIS SOBRE O CLUBE,link_text,standings,0
+939,36,16,PAT,abbreviation,standings,0
+940,36,16,Pato Basquete,season_display_name,standings,1
+941,36,16,MAIS SOBRE O CLUBE,link_text,standings,0
+942,12,16,CAP,abbreviation,standings,0
+943,12,16,Paulistano,season_display_name,standings,1
+944,12,16,MAIS SOBRE O CLUBE,link_text,standings,0
+945,13,16,PIN,abbreviation,standings,0
+946,13,16,Pinheiros,season_display_name,standings,1
+947,13,16,MAIS SOBRE O CLUBE,link_text,standings,0
+948,15,16,SJO,abbreviation,standings,0
+949,15,16,Coop/São José Basketball,season_display_name,standings,1
+950,15,16,Mr. Moo São José Basketball,logo_alt,standings,0
+951,15,16,MAIS SOBRE O CLUBE,link_text,standings,0
+952,15,16,Sao Jose,slug_name,standings,0
+953,37,16,SAO,abbreviation,standings,0
+954,37,16,São Paulo,season_display_name,standings,1
+955,37,16,MAIS SOBRE O CLUBE,link_text,standings,0
+956,37,16,Sao Paulo Futebol Clube,slug_name,standings,0
+957,40,16,UCO,abbreviation,standings,0
+958,40,16,União Corinthians,season_display_name,standings,1
+959,40,16,Ceisc/União Corinthians,logo_alt,standings,0
+960,40,16,MAIS SOBRE O CLUBE,link_text,standings,0
+961,40,16,Uniao Corinthians,slug_name,standings,0
+962,38,16,UFC,abbreviation,standings,0
+963,38,16,UNIFACISA,season_display_name,standings,1
+964,38,16,MAIS SOBRE O CLUBE,link_text,standings,0
+965,31,16,VAS,abbreviation,standings,0
+966,31,16,R10 Score Vasco da Gama,season_display_name,standings,1
+967,31,16,Vasco da Gama,logo_alt,standings,0
+968,31,16,MAIS SOBRE O CLUBE,link_text,standings,0
+969,21,17,FOR,abbreviation,standings,0
+970,21,17,Fortaleza B. C. / CFO,season_display_name,standings,1
+971,21,17,Fortaleza Basquete Cearense,logo_alt,standings,0
+972,21,17,MAIS SOBRE O CLUBE,link_text,standings,0
+973,21,17,Basq Cearense,slug_name,standings,0
+974,3,17,BAU,abbreviation,standings,0
+975,3,17,Bauru Basket,season_display_name,standings,1
+976,3,17,MAIS SOBRE O CLUBE,link_text,standings,0
+977,3,17,Bauru,slug_name,standings,0
+978,32,17,BOT,abbreviation,standings,0
+979,32,17,Botafogo,season_display_name,standings,1
+980,32,17,MAIS SOBRE O CLUBE,link_text,standings,0
+981,34,17,BRA,abbreviation,standings,0
+982,34,17,CAIXA/Brasília Basquete,season_display_name,standings,1
+983,34,17,MAIS SOBRE O CLUBE,link_text,standings,0
+984,34,17,Brasilia Basquete,slug_name,standings,0
+985,28,17,CAX,abbreviation,standings,0
+986,28,17,Caxias do Sul Basquete,season_display_name,standings,1
+987,28,17,MAIS SOBRE O CLUBE,link_text,standings,0
+988,28,17,Caxias Do Sul,slug_name,standings,0
+989,35,17,COR,abbreviation,standings,0
+990,35,17,Corinthians,season_display_name,standings,1
+991,35,17,MAIS SOBRE O CLUBE,link_text,standings,0
+992,6,17,FLA,abbreviation,standings,0
+993,6,17,Flamengo,season_display_name,standings,1
+994,6,17,MAIS SOBRE O CLUBE,link_text,standings,0
+995,7,17,FRA,abbreviation,standings,0
+996,7,17,Sesi Franca,season_display_name,standings,1
+997,7,17,MAIS SOBRE O CLUBE,link_text,standings,0
+998,7,17,Franca,slug_name,standings,0
+999,11,17,MIN,abbreviation,standings,0
+1000,11,17,KTO Minas,season_display_name,standings,1
+1001,11,17,MAIS SOBRE O CLUBE,link_text,standings,0
+1002,11,17,Minas,slug_name,standings,0
+1003,22,17,MOG,abbreviation,standings,0
+1004,22,17,Desk Manager Mogi Basquete,season_display_name,standings,1
+1005,22,17,Mogi Basquete,logo_alt,standings,0
+1006,22,17,MAIS SOBRE O CLUBE,link_text,standings,0
+1007,22,17,Mogi,slug_name,standings,0
+1008,36,17,PAT,abbreviation,standings,0
+1009,36,17,Pato Basquete,season_display_name,standings,1
+1010,36,17,MAIS SOBRE O CLUBE,link_text,standings,0
+1011,12,17,CAP,abbreviation,standings,0
+1012,12,17,Paulistano/CORPe,season_display_name,standings,1
+1013,12,17,Paulistano,logo_alt,standings,0
+1014,12,17,MAIS SOBRE O CLUBE,link_text,standings,0
+1015,13,17,PIN,abbreviation,standings,0
+1016,13,17,Pinheiros,season_display_name,standings,1
+1017,13,17,MAIS SOBRE O CLUBE,link_text,standings,0
+1018,15,17,SJO,abbreviation,standings,0
+1019,15,17,Farma Conde/São José Basketball,season_display_name,standings,1
+1020,15,17,Mr. Moo São José Basketball,logo_alt,standings,0
+1021,15,17,MAIS SOBRE O CLUBE,link_text,standings,0
+1022,15,17,Sao Jose,slug_name,standings,0
+1023,37,17,SAO,abbreviation,standings,0
+1024,37,17,São Paulo,season_display_name,standings,1
+1025,37,17,MAIS SOBRE O CLUBE,link_text,standings,0
+1026,37,17,Sao Paulo Futebol Clube,slug_name,standings,0
+1027,40,17,UCO,abbreviation,standings,0
+1028,40,17,Ceisc/União Corinthians,season_display_name,standings,1
+1029,40,17,MAIS SOBRE O CLUBE,link_text,standings,0
+1030,40,17,Uniao Corinthians,slug_name,standings,0
+1031,38,17,UFC,abbreviation,standings,0
+1032,38,17,UNIFACISA,season_display_name,standings,1
+1033,38,17,MAIS SOBRE O CLUBE,link_text,standings,0
+1034,31,17,VAS,abbreviation,standings,0
+1035,31,17,R10 Score Vasco da Gama,season_display_name,standings,1
+1036,31,17,Vasco da Gama,logo_alt,standings,0
+1037,31,17,MAIS SOBRE O CLUBE,link_text,standings,0
+1038,41,18,OSA,abbreviation,standings,0
+1039,41,18,Basket Osasco,season_display_name,standings,1
+1040,41,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1041,21,18,FOR,abbreviation,standings,0
+1042,21,18,Fortaleza Basquete Cearense,season_display_name,standings,1
+1043,21,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1044,21,18,Basq Cearense,slug_name,standings,0
+1045,3,18,BAU,abbreviation,standings,0
+1046,3,18,Bauru Basket,season_display_name,standings,1
+1047,3,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1048,3,18,Bauru,slug_name,standings,0
+1049,32,18,BOT,abbreviation,standings,0
+1050,32,18,Botafogo,season_display_name,standings,1
+1051,32,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1052,34,18,BRA,abbreviation,standings,0
+1053,34,18,CAIXA/Brasília Basquete,season_display_name,standings,1
+1054,34,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1055,34,18,Brasilia Basquete,slug_name,standings,0
+1056,28,18,CAX,abbreviation,standings,0
+1057,28,18,Caxias do Sul Basquete,season_display_name,standings,1
+1058,28,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1059,28,18,Caxias Do Sul,slug_name,standings,0
+1060,35,18,COR,abbreviation,standings,0
+1061,35,18,Corinthians,season_display_name,standings,1
+1062,35,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1063,42,18,CRU,abbreviation,standings,0
+1064,42,18,Cruzeiro,season_display_name,standings,1
+1065,42,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1066,42,18,Cruzeiro Basquete,slug_name,standings,0
+1067,6,18,FLA,abbreviation,standings,0
+1068,6,18,Flamengo,season_display_name,standings,1
+1069,6,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1070,7,18,FRA,abbreviation,standings,0
+1071,7,18,Sesi Franca,season_display_name,standings,1
+1072,7,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1073,7,18,Franca,slug_name,standings,0
+1074,11,18,MIN,abbreviation,standings,0
+1075,11,18,KTO Minas,season_display_name,standings,1
+1076,11,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1077,11,18,Minas,slug_name,standings,0
+1078,22,18,MOG,abbreviation,standings,0
+1079,22,18,Mogi Basquete,season_display_name,standings,1
+1080,22,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1081,22,18,Mogi,slug_name,standings,0
+1082,36,18,PAT,abbreviation,standings,0
+1083,36,18,Pato Basquete,season_display_name,standings,1
+1084,36,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1085,12,18,CAP,abbreviation,standings,0
+1086,12,18,Paulistano,season_display_name,standings,1
+1087,12,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1088,13,18,PIN,abbreviation,standings,0
+1089,13,18,Pinheiros,season_display_name,standings,1
+1090,13,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1091,27,18,RCB,abbreviation,standings,0
+1092,27,18,Conta Simples Rio Claro,season_display_name,standings,1
+1093,27,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1094,27,18,Rio Claro,slug_name,standings,0
+1095,15,18,SJO,abbreviation,standings,0
+1096,15,18,Mr. Moo São José Basketball,season_display_name,standings,1
+1097,15,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1098,15,18,Sao Jose,slug_name,standings,0
+1099,40,18,UCO,abbreviation,standings,0
+1100,40,18,Ceisc/União Corinthians,season_display_name,standings,1
+1101,40,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1102,40,18,Uniao Corinthians,slug_name,standings,0
+1103,38,18,UFC,abbreviation,standings,0
+1104,38,18,UNIFACISA,season_display_name,standings,1
+1105,38,18,MAIS SOBRE O CLUBE,link_text,standings,0
+1106,31,18,VAS,abbreviation,standings,0
+1107,31,18,Vasco da Gama,season_display_name,standings,1
+1108,31,18,MAIS SOBRE O CLUBE,link_text,standings,0

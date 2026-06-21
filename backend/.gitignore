@@ -1,0 +1,7 @@
+﻿.venv/
+__pycache__/
+.pytest_cache/
+logs/
+database/*.db
+database/*.sqlite3
+estrutura.txt

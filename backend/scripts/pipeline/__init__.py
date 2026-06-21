@@ -1,0 +1,1 @@
+"""Scripts de pipeline operacional do backend DaTabela."""

@@ -1,0 +1,43 @@
+id,canonical_name,slug,abbreviation,logo_url,lnb_url,first_seen_season_id,last_seen_season_id,is_active
+1,Araraquara,araraquara-2,ARA,https://lnb.com.br/wp-content/uploads/2012/02/Araraquara.png,https://lnb.com.br/equipes/araraquara-2/,1,4,0
+2,Assis,assis,ASS,https://lnb.com.br/wp-content/uploads/2012/02/Assis.png,https://lnb.com.br/equipes/assis/,1,3,0
+3,Bauru Basket,bauru,BAU,https://lnb.com.br/wp-content/uploads/2016/10/bauru_basket_logotipo_cor_claro-150x150.png,https://lnb.com.br/equipes/bauru/,1,18,1
+4,Brasília,brasilia,BRA,https://lnb.com.br/wp-content/uploads/2016/10/logo-brasilia-1-150x150.png,https://lnb.com.br/equipes/brasilia/,1,9,0
+5,Espírito Santo,espírito-santo,ESB,https://lnb.com.br/wp-content/uploads/2013/10/Espirito-Santo-Basquketball.png,https://lnb.com.br/equipes/esp%c3%adrito-santo/,1,6,0
+6,Flamengo,flamengo,FLA,https://lnb.com.br/wp-content/uploads/2016/10/terrestres_principal_rgb-150x150.png,https://lnb.com.br/equipes/flamengo/,1,18,1
+7,Sesi Franca,franca,FRA,https://lnb.com.br/wp-content/uploads/2016/10/Logotipo-Sesi-Franca-Basquete--150x150.png,https://lnb.com.br/equipes/franca/,1,18,1
+8,Joinville,joinville-2,JOI,https://lnb.com.br/wp-content/uploads/2012/02/Joinville.png,https://lnb.com.br/equipes/joinville-2/,1,5,0
+9,Lajeado,lajeado,LAJ,https://lnb.com.br/wp-content/uploads/2012/02/Lajeado.png,https://lnb.com.br/equipes/lajeado/,1,1,0
+10,Limeira,limeira-2,LIM,https://lnb.com.br/wp-content/uploads/2016/10/logo-limeira-2-150x150.png,https://lnb.com.br/equipes/limeira-2/,1,7,0
+11,KTO Minas,minas,MIN,https://lnb.com.br/wp-content/uploads/2016/10/minas_2.png,https://lnb.com.br/equipes/minas/,1,18,1
+12,Paulistano,paulistano,CAP,https://lnb.com.br/wp-content/uploads/2016/10/Logo_Paulistano-150x150.png,https://lnb.com.br/equipes/paulistano/,1,18,1
+13,Pinheiros,pinheiros,PIN,https://lnb.com.br/wp-content/uploads/2016/10/logo-pinheiros-1-150x150.png,https://lnb.com.br/equipes/pinheiros/,1,18,1
+14,Saldanha,saldanha,SAL,https://lnb.com.br/wp-content/uploads/2012/02/Saldanha-Logo.png,https://lnb.com.br/equipes/saldanha/,1,2,0
+15,Mr. Moo São José Basketball,sao-jose,SJO,https://lnb.com.br/wp-content/uploads/2016/10/Sâo-José-13-14-1-150x150.png,https://lnb.com.br/equipes/sao-jose/,1,18,1
+16,Londrina,londrina,LON,https://lnb.com.br/wp-content/uploads/2017/01/logo-londrina-brasilia-1-150x150.png,https://lnb.com.br/equipes/londrina/,2,2,0
+17,Uberlândia,uberlândia,UBE,https://lnb.com.br/wp-content/uploads/2014/10/Uberlandia-150x150.png,https://lnb.com.br/equipes/uberl%c3%a2ndia/,3,7,0
+18,Vitória (ES),vitória-es,VIT,https://lnb.com.br/wp-content/uploads/2012/02/CECRE.png,https://lnb.com.br/equipes/vit%c3%b3ria-es/,3,3,0
+19,L. Sorocabana,l-sorocabana,LSB,https://lnb.com.br/wp-content/uploads/2016/10/LSBSite-150x150.png,https://lnb.com.br/equipes/l-sorocabana/,4,10,0
+20,Tijuca,tijuca-2,TIJ,https://lnb.com.br/wp-content/uploads/2015/07/Tijuca.png,https://lnb.com.br/equipes/tijuca-2/,4,5,0
+21,Fortaleza Basquete Cearense,basq-cearense,FOR,https://lnb.com.br/wp-content/uploads/2016/10/FortalezaBasqueteCearense-150x150.png,https://lnb.com.br/equipes/basq-cearense/,5,18,1
+22,Mogi Basquete,mogi,MOG,https://lnb.com.br/wp-content/uploads/2016/10/IMG_5241-e1752524726672-150x150.png,https://lnb.com.br/equipes/mogi/,5,18,1
+23,Palmeiras,palmeiras-2,PAL,https://lnb.com.br/wp-content/uploads/2013/11/Palmeiras.png,https://lnb.com.br/equipes/palmeiras-2/,5,7,0
+24,Suzano,suzano-2,SUZ,https://lnb.com.br/wp-content/uploads/2012/09/Suzano.png,https://lnb.com.br/equipes/suzano-2/,5,5,0
+25,Goiânia,goiânia,GOI,https://lnb.com.br/wp-content/uploads/2013/12/Logo-Universo-Goiania.png,https://lnb.com.br/equipes/goi%c3%a2nia/,6,6,0
+26,Macaé Basquete,macae,MAC,https://lnb.com.br/wp-content/uploads/2016/10/macae-logo-1-150x150.png,https://lnb.com.br/equipes/macae/,6,9,0
+27,Conta Simples Rio Claro,rio-claro,RCB,https://lnb.com.br/wp-content/uploads/2016/10/RioClaro1-150x150.png,https://lnb.com.br/equipes/rio-claro/,7,18,1
+28,Caxias do Sul Basquete,caxias-do-sul,CAX,https://lnb.com.br/wp-content/uploads/2016/10/Caxias_1-150x150.png,https://lnb.com.br/equipes/caxias-do-sul/,8,18,1
+29,Vitória,vitória,VIT,https://lnb.com.br/wp-content/uploads/2016/10/logo-vitoria-1.png,https://lnb.com.br/equipes/vit%c3%b3ria/,8,10,0
+30,VipTech CMB,campo-mourao,CMO,https://lnb.com.br/wp-content/uploads/2016/10/logo-campo-mourao-1-150x150.png,https://lnb.com.br/equipes/campo-mourao/,9,13,0
+31,Vasco da Gama,vasco-da-gama,VAS,https://lnb.com.br/wp-content/uploads/2016/10/ESCUDO-VASCO-RGB-150x150.png,https://lnb.com.br/equipes/vasco-da-gama/,9,18,1
+32,Botafogo,botafogo,BOT,https://lnb.com.br/wp-content/uploads/2017/02/logo-botafogo-150x150.png,https://lnb.com.br/equipes/botafogo/,10,18,1
+33,Joinville / AABJ,joinville-aabj,JLE,https://lnb.com.br/wp-content/uploads/2017/02/Basquete-Joinville-Brasão-150x150.png,https://lnb.com.br/equipes/joinville-aabj/,10,11,0
+34,CAIXA/Brasília Basquete,brasilia-basquete,BRA,https://lnb.com.br/wp-content/uploads/2021/07/Caixa-Brasilia-Masquete-1.png,https://lnb.com.br/equipes/brasilia-basquete/,11,18,1
+35,Corinthians,corinthians,COR,https://lnb.com.br/wp-content/uploads/2018/01/Corinthians-2-150x150.png,https://lnb.com.br/equipes/corinthians/,11,18,1
+36,Pato Basquete,pato-basquete,PAT,https://lnb.com.br/wp-content/uploads/2019/01/logo-patobasquete-1-150x150.png,https://lnb.com.br/equipes/pato-basquete/,12,18,1
+37,São Paulo,sao-paulo-futebol-clube,SAO,https://lnb.com.br/wp-content/uploads/2019/01/logo-spfc-sem-fundo-150x150.png,https://lnb.com.br/equipes/sao-paulo-futebol-clube/,12,17,0
+38,UNIFACISA,unifacisa,UFC,https://lnb.com.br/wp-content/uploads/2018/01/unifacisa-1.png,https://lnb.com.br/equipes/unifacisa/,12,18,1
+39,Cerrado,cerrado-basquete,CER,https://lnb.com.br/wp-content/uploads/2018/01/Cerrado_BCO-square-150x150.png,https://lnb.com.br/equipes/cerrado-basquete/,13,16,0
+40,Ceisc/União Corinthians,uniao-corinthians,UCO,https://lnb.com.br/wp-content/uploads/2018/08/Escudo-Corinthians-150x150.png,https://lnb.com.br/equipes/uniao-corinthians/,14,18,1
+41,Basket Osasco,basket-osasco,OSA,https://lnb.com.br/wp-content/uploads/2025/01/osasco-1-150x150.png,https://lnb.com.br/equipes/basket-osasco/,18,18,1
+42,Cruzeiro,cruzeiro-basquete,CRU,https://lnb.com.br/wp-content/uploads/2025/01/CRUZEIRO-2-2.png,https://lnb.com.br/equipes/cruzeiro-basquete/,18,18,1

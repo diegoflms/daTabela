@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+logs/
+.vscode
+
+# Dados locais pesados ou regeneráveis
+dados/raw/
+dados/_runtime/
+dados/diagnostics/
+dados/archive/
