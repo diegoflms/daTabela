@@ -25,7 +25,7 @@ export const Header: React.FC = () => {
   const handleSearch = () => {
     if (!searchQuery.trim()) return;
     setMobileMenuOpen(false);
-    router.push(`/search?q=${encodeURIComponent(searchQuery.trim())}`);
+    router.push(`/ask?q=${encodeURIComponent(searchQuery.trim())}`);
   };
 
   const handleAjuda = () => {
@@ -160,8 +160,7 @@ export const Header: React.FC = () => {
           <NavLink href="/" label="Início" onPress={() => setMobileMenuOpen(false)} />
           <NavLink href="/teams" label="Times" onPress={() => setMobileMenuOpen(false)} />
           <NavLink href="/players" label="Jogadores" onPress={() => setMobileMenuOpen(false)} />
-          <NavLink href="/search" label="Busca Global" onPress={() => setMobileMenuOpen(false)} />
-          <NavLink href="/ask" label="Perguntar ao AI 💬" onPress={() => setMobileMenuOpen(false)} />
+          <NavLink href="/ask" label="Busca" onPress={() => setMobileMenuOpen(false)} />
           
           <Link href={"/help" as any} asChild>
             <TouchableOpacity style={styles.mobileNavButton} onPress={() => setMobileMenuOpen(false)}>

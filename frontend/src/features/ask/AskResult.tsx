@@ -9,60 +9,47 @@ interface AskResultProps {
   result: AskResponse;
 }
 
+const excludedColumns = [
+  'id',
+  'game_id',
+  'season_id',
+  'competition',
+  'team_id',
+  'opponent_team_id',
+  'player_id',
+  'jersey_number',
+  'is_starter',
+  'minutes_text',
+  'source_url',
+  'parse_model',
+  'needs_manual_review',
+  'entity_player_name',
+  'entity_player_slug',
+  'entity_team_slug',
+  'entity_opponent_team_slug',
+  'game_season_id',
+  'game_home_team_id',
+  'game_away_team_id',
+  'game_boxscore_url',
+  'game_source_url',
+  'game_round',
+  'game_arena',
+];
+
 export const AskResult: React.FC<AskResultProps> = ({ result }) => {
-  const { title, columns, rows, source_tables = [], interpreted_as, note, total } = result;
+  const { title, columns, rows, source_tables = [], note, total } = result;
+
+  const filteredColumns = columns.filter(
+    (col) => !excludedColumns.includes(col.toLowerCase())
+  );
 
   return (
     <View style={styles.container}>
       {/* Title */}
       <Text style={styles.title}>{title || 'Resultado da Pergunta'}</Text>
 
-      {/* Interpreted context info */}
-      {interpreted_as && (
-        <View style={styles.interpretationBox}>
-          <Text style={styles.interpretationLabel}>Interpretado como:</Text>
-          <View style={styles.interpretationBadges}>
-            {interpreted_as.intent && (
-              <Badge 
-                label={`Intenção: ${interpreted_as.intent}`} 
-                variant="primary" 
-                style={styles.badge} 
-              />
-            )}
-            {interpreted_as.player && (
-              <Badge 
-                label={`Jogador: ${interpreted_as.player.name}`} 
-                variant="success" 
-                style={styles.badge} 
-              />
-            )}
-            {interpreted_as.metric && (
-              <Badge 
-                label={`Métrica: ${interpreted_as.metric.toUpperCase()}`} 
-                variant="secondary" 
-                style={styles.badge} 
-              />
-            )}
-            {interpreted_as.last_n_games && (
-              <Badge 
-                label={`Nº Jogos: ${interpreted_as.last_n_games}`} 
-                variant="info" 
-                style={styles.badge} 
-              />
-            )}
-            {interpreted_as.top_n && (
-              <Badge 
-                label={`Top ${interpreted_as.top_n}`} 
-                variant="warning" 
-                style={styles.badge} 
-              />
-            )}
-          </View>
-        </View>
-      )}
-
       {/* Table */}
-      <DynamicTable columns={columns} rows={rows} />
+      <DynamicTable columns={filteredColumns} rows={rows} />
 
       {/* Note or Total info */}
       {note && (

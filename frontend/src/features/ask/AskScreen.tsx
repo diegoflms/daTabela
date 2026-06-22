@@ -11,9 +11,20 @@ import { colors, spacing, typography } from '../../theme';
 import { askQuestion } from '../../api/ask';
 import { useAsync } from '../../hooks/useAsync';
 
+import { useLocalSearchParams } from 'expo-router';
+
 export const AskScreen: React.FC = () => {
-  const [question, setQuestion] = useState('');
+  const { q } = useLocalSearchParams<{ q?: string }>();
+  const [question, setQuestion] = useState(q || '');
   const { data: result, loading, error, execute: runAsk } = useAsync(askQuestion);
+
+  // Execute query on mount if provided in URL parameter 'q'
+  React.useEffect(() => {
+    if (q && q.trim()) {
+      setQuestion(q.trim());
+      runAsk(q.trim()).catch(() => {});
+    }
+  }, [q]);
 
   const handleSubmit = () => {
     if (!question.trim()) return;

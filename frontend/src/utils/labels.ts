@@ -183,6 +183,23 @@ const labelMap: Record<string, string> = {
   EF: 'EF',
   '+/-': '+/-',
   MIN: 'MIN',
+
+  // Custom mappings for /ask raw columns
+  player_name_raw: 'Jogador',
+  minutes_decimal: 'MIN',
+  points_attempted: 'PTS Tent.',
+  fg_made: 'FGM',
+  fg_attempted: 'FGA',
+  three_made: '3PM',
+  three_attempted: '3PA',
+  two_made: '2PM',
+  two_attempted: '2PA',
+  ft_made: 'FTM',
+  ft_attempted: 'FTA',
+  game_game_date: 'Data',
+  game_home_score: 'Placar (M)',
+  game_away_score: 'Placar (V)',
+  game_phase: 'Fase',
 };
 
 export const formatColumnLabel = (column: string): string => {
